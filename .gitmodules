@@ -1,0 +1,3 @@
+[submodule "themes/liva-hugo"]
+	path = themes/liva-hugo
+	url = git@github.com:visualpartnership/liva-hugo.git
