@@ -2,62 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Visual Constellations</title>
-    <link>https://visualpartnership.xyz/visualconstellations/tags/</link>
+    <link>https://visualpartnership.xyz/constellations/tags/</link>
     <description>Recent content in Tags on Visual Constellations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://visualpartnership.xyz/visualconstellations/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 00:10:33 -0500</lastBuildDate><atom:link href="https://visualpartnership.xyz/constellations/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game</title>
-      <link>https://visualpartnership.xyz/visualconstellations/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>BEAM</title>
+      <link>https://visualpartnership.xyz/constellations/tags/beam/</link>
+      <pubDate>Sun, 12 Sep 2021 00:10:33 -0500</pubDate>
       
-      <guid>https://visualpartnership.xyz/visualconstellations/tags/game/</guid>
+      <guid>https://visualpartnership.xyz/constellations/tags/beam/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HTML</title>
-      <link>https://visualpartnership.xyz/visualconstellations/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Elixir</title>
+      <link>https://visualpartnership.xyz/constellations/tags/elixir/</link>
+      <pubDate>Sun, 12 Sep 2021 00:10:33 -0500</pubDate>
       
-      <guid>https://visualpartnership.xyz/visualconstellations/tags/html/</guid>
+      <guid>https://visualpartnership.xyz/constellations/tags/elixir/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://visualpartnership.xyz/visualconstellations/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Erlang</title>
+      <link>https://visualpartnership.xyz/constellations/tags/erlang/</link>
+      <pubDate>Sun, 12 Sep 2021 00:10:33 -0500</pubDate>
       
-      <guid>https://visualpartnership.xyz/visualconstellations/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://visualpartnership.xyz/visualconstellations/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://visualpartnership.xyz/visualconstellations/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://visualpartnership.xyz/visualconstellations/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://visualpartnership.xyz/visualconstellations/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://visualpartnership.xyz/visualconstellations/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://visualpartnership.xyz/visualconstellations/tags/react/</guid>
+      <guid>https://visualpartnership.xyz/constellations/tags/erlang/</guid>
       <description></description>
     </item>
     

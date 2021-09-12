@@ -2,71 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Visual Constellations</title>
-    <link>https://visualpartnership.xyz/visualconstellations/categories/</link>
+    <link>https://visualpartnership.xyz/constellations/categories/</link>
     <description>Recent content in Categories on Visual Constellations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://visualpartnership.xyz/visualconstellations/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 00:10:33 -0500</lastBuildDate><atom:link href="https://visualpartnership.xyz/constellations/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android And Gaming</title>
-      <link>https://visualpartnership.xyz/visualconstellations/categories/android-and-gaming/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Visual Thinking</title>
+      <link>https://visualpartnership.xyz/constellations/categories/visual-thinking/</link>
+      <pubDate>Sun, 12 Sep 2021 00:10:33 -0500</pubDate>
       
-      <guid>https://visualpartnership.xyz/visualconstellations/categories/android-and-gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go Language</title>
-      <link>https://visualpartnership.xyz/visualconstellations/categories/go-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://visualpartnership.xyz/visualconstellations/categories/go-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://visualpartnership.xyz/visualconstellations/categories/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://visualpartnership.xyz/visualconstellations/categories/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://visualpartnership.xyz/visualconstellations/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://visualpartnership.xyz/visualconstellations/categories/html-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming Language</title>
-      <link>https://visualpartnership.xyz/visualconstellations/categories/programming-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://visualpartnership.xyz/visualconstellations/categories/programming-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://visualpartnership.xyz/visualconstellations/categories/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://visualpartnership.xyz/visualconstellations/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Design</title>
-      <link>https://visualpartnership.xyz/visualconstellations/categories/web-design/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://visualpartnership.xyz/visualconstellations/categories/web-design/</guid>
+      <guid>https://visualpartnership.xyz/constellations/categories/visual-thinking/</guid>
       <description></description>
     </item>
     

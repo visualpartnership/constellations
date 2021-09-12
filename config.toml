@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://visualpartnership.xyz/visualconstellations"
+baseURL = "https://visualpartnership.xyz/constellations"
 languageCode = "en-us"
 title = "Visual Constellations"
 theme = "liva-hugo"

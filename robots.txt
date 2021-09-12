@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow:
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Sitemap: https://visualpartnership.xyz/constellations/sitemap.xml
