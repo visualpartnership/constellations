@@ -13,6 +13,7 @@ description: "this is meta description"
 type : "about"
 ---
 
+Bienvenido a este lugar, donde queremos compartir contigo nuestro trabajo. 🎨
 
 We are so happy to share this 💖 awesome project, our main goal is help tech communities with record their awesome talks 🧑‍🎨.
 
