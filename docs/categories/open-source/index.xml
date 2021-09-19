@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Visual Constellations</title>
+    <link>https://visualpartnership.xyz/constellations/categories/open-source/</link>
+    <description>Recent content in Open Source on Visual Constellations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Sep 2021 15:06:12 -0500</lastBuildDate><atom:link href="https://visualpartnership.xyz/constellations/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#CODIGOFEST</title>
+      <link>https://visualpartnership.xyz/constellations/blog/codigofest/</link>
+      <pubDate>Sun, 19 Sep 2021 15:06:12 -0500</pubDate>
+      
+      <guid>https://visualpartnership.xyz/constellations/blog/codigofest/</guid>
+      <description>Código Fest &amp;lt;&amp;gt; Código Facilito 10 Años </description>
+    </item>
+    
+  </channel>
+</rss>
