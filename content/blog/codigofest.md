@@ -4,7 +4,7 @@ date: 2021-09-19T15:06:12-05:00
 draft: false
 
 # post thumb
-image: "images/post/codigofest/1.png"
+image: "images/post/codigofest/7.png"
 
 # meta description
 description: "Registros gráficos del evento #CODIGOFEST de Código Facilito"
@@ -98,3 +98,11 @@ Si estás buscando sacarle más provecho a los eventos que asistes, te recomiend
 ## 🎆 Las 5'S de un programados por Natsumi Angel
 
 ![](../../images/post/codigofest/7.png)
+
+## YouTube
+
+Puedes ver las charlas en los videos del canal de Código Facilito
+
+{{< youtube Z0xhuRIn9bM>}}
+
+{{< youtube 6hbWoosQ_WU>}}
