@@ -59,6 +59,16 @@ Aunque puedo estar plenamente dentro de la charla, la realidad es que no puedes 
 
   Otro gran reto de este evento fue realizar **Registros Gráficos** que condensaran el mensaje de cada charla, tomando los elementos más importantes, de tal forma que pueda ser una carta de navegación para explorar estos contenidos de la mano de la charla, poder enriquecerla y darle a la audiencia una guía para volver a conectar con los elementos que escuchó pero tal vez no recuerda al final del día. Es crear ese puente de conexión entre el contenido y el público en el tiempo futuro. 💖
 
+## Tips: Mejora tu escucha activa
+
+Muchas veces he notado que la mayoría de las charlas técnicas estan llenas de mucho contenido, esta tendencia se puede ver por todos lados, estamos bombardeados de información que muchas veces no podemos procesar, dar una charla no es sello de garantía de ser buen presentador, una charla que sea muy compleja puede serlo simplemente por la forma en que es expuesta, no porque la audiencia no sea capaz de entender al speaker.
+
+Si estás buscando sacarle más provecho a los eventos que asistes, te recomiendo:
+
+- Identificar el nivel de la charla y el público a quién esta dirigida, muchas veces esto no es explícito, pero a medida que se va dando la charla uno puede ir notando a qué público va dirigido, esto te ayudará a empatizar mejor con el contenido.
+- Menos es más: podrías anotar todo el contenido de una charla, pero ¿qué tanta de esa información te va a servir? Te recomiendo algo muy sencillo, la próxima vez que estés en una charla anota las 3 ideas principales, no más, no menos, usa tu capacidad de síntesis y prioriza las ideas que a ti te parecieron más importantes.
+- El aprendizaje no es como ir al Mc Donals y pedir una hamburguesa: prepárate antes de entrar a una charla, busca información del tema, no llegues en blanco, saca tus propias conclusiones y comparalas con las del speaker.
+
 # Los Registros Gráficos
 
 ## 🎆 ¿Cómo aprovechar tu tiempo como estudiante? Por Juan Pablo Flores
@@ -85,3 +95,6 @@ Aunque puedo estar plenamente dentro de la charla, la realidad es que no puedes 
 
 ![](../../images/post/codigofest/6.png)
 
+## 🎆 Las 5'S de un programados por Natsumi Angel
+
+![](../../images/post/codigofest/7.png)
