@@ -94,7 +94,7 @@ Si estás buscando sacarle más provecho a los eventos que asistes, te recomiend
 
 ![](../../images/post/codigofest/6.png)
 
-## 🎆 Las 5'S de un programados por Natsumi Angel
+## 🎆 Las 5'S de un programador por Natsumi Angel
 
 ![](../../images/post/codigofest/7.png)
 
