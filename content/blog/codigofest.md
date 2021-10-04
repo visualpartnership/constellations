@@ -17,7 +17,6 @@ categories:
   - "Open Source"
   - "Streaming"
 tags:
-  - "Tech"
   - "Español"
 # post type
 type: "post"
