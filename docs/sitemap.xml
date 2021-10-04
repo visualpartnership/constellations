@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://visualpartnership.xyz/constellations/blog/codigofest/</loc>
-    <lastmod>2021-09-19T15:06:12-05:00</lastmod>
-  </url><url>
     <loc>https://visualpartnership.xyz/constellations/categories/</loc>
+    <lastmod>2021-10-03T15:06:12-05:00</lastmod>
+  </url><url>
+    <loc>https://visualpartnership.xyz/constellations/blog/elparchedev/</loc>
+    <lastmod>2021-10-03T15:06:12-05:00</lastmod>
+  </url><url>
+    <loc>https://visualpartnership.xyz/constellations/categories/entrevistas/</loc>
+    <lastmod>2021-10-03T15:06:12-05:00</lastmod>
+  </url><url>
+    <loc>https://visualpartnership.xyz/constellations/tags/espa%C3%B1ol/</loc>
+    <lastmod>2021-10-03T15:06:12-05:00</lastmod>
+  </url><url>
+    <loc>https://visualpartnership.xyz/constellations/categories/github-education/</loc>
+    <lastmod>2021-10-03T15:06:12-05:00</lastmod>
+  </url><url>
+    <loc>https://visualpartnership.xyz/constellations/categories/github-stream-team/</loc>
+    <lastmod>2021-10-03T15:06:12-05:00</lastmod>
+  </url><url>
+    <loc>https://visualpartnership.xyz/constellations/tags/</loc>
+    <lastmod>2021-10-03T15:06:12-05:00</lastmod>
+  </url><url>
+    <loc>https://visualpartnership.xyz/constellations/</loc>
+    <lastmod>2021-10-03T15:06:12-05:00</lastmod>
+  </url><url>
+    <loc>https://visualpartnership.xyz/constellations/categories/visual-thinking/</loc>
+    <lastmod>2021-10-03T15:06:12-05:00</lastmod>
+  </url><url>
+    <loc>https://visualpartnership.xyz/constellations/blog/codigofest/</loc>
     <lastmod>2021-09-19T15:06:12-05:00</lastmod>
   </url><url>
     <loc>https://visualpartnership.xyz/constellations/categories/comunidades/</loc>
@@ -14,25 +38,10 @@
     <loc>https://visualpartnership.xyz/constellations/categories/c%C3%B3digo-facilito/</loc>
     <lastmod>2021-09-19T15:06:12-05:00</lastmod>
   </url><url>
-    <loc>https://visualpartnership.xyz/constellations/tags/espa%C3%B1ol/</loc>
-    <lastmod>2021-09-19T15:06:12-05:00</lastmod>
-  </url><url>
     <loc>https://visualpartnership.xyz/constellations/categories/open-source/</loc>
     <lastmod>2021-09-19T15:06:12-05:00</lastmod>
   </url><url>
     <loc>https://visualpartnership.xyz/constellations/categories/streaming/</loc>
-    <lastmod>2021-09-19T15:06:12-05:00</lastmod>
-  </url><url>
-    <loc>https://visualpartnership.xyz/constellations/tags/</loc>
-    <lastmod>2021-09-19T15:06:12-05:00</lastmod>
-  </url><url>
-    <loc>https://visualpartnership.xyz/constellations/tags/tech/</loc>
-    <lastmod>2021-09-19T15:06:12-05:00</lastmod>
-  </url><url>
-    <loc>https://visualpartnership.xyz/constellations/</loc>
-    <lastmod>2021-09-19T15:06:12-05:00</lastmod>
-  </url><url>
-    <loc>https://visualpartnership.xyz/constellations/categories/visual-thinking/</loc>
     <lastmod>2021-09-19T15:06:12-05:00</lastmod>
   </url><url>
     <loc>https://visualpartnership.xyz/constellations/about/</loc>
