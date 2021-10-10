@@ -4,7 +4,7 @@ date: 2021-10-03T15:06:12-05:00
 draft: false
 
 # post thumb
-image: "images/post/elparchedev/1.png"
+image: "images/post/elparchedev/5.png"
 
 # meta description
 description: "Registros gráficos de El Parche Dev de GitHub Education"
@@ -31,18 +31,25 @@ Si eres nuevo tal vez te preguntarás qué tiene de especial el apunte de la cha
 
 ## Galería de Episodios
 
-## 🎆 Ep. 1 con @Marianvilla
+## 🎆 Ep. 1 Productividad con @Marianvilla
 
 ![](../../images/post/elparchedev/1.png)
 
-## 🎆 Ep. 2 con @lizparody23
+## 🎆 Ep. 2 Trabajo Remoto con @lizparody23
 
 ![](../../images/post/elparchedev/2.png)
 
-## 🎆 Ep. 3 con @karobotco
+## 🎆 Ep. 3 Técnicas de Aprendizaje con @karobotco
 
 ![](../../images/post/elparchedev/3.png)
 
-## 🎆 Ep. 4 con @leslysandra
+## 🎆 Ep. 4 Becas para Estudiar con @leslysandra
 
 ![](../../images/post/elparchedev/4.png)
+
+## 🎆 Ep. 5 Procrastinación con @gmzjuliana
+
+![](../../images/post/elparchedev/5.png)
+
+[Video](https://www.twitch.tv/videos/1137339798?collection=iTmOKukroRbXBA)
+
