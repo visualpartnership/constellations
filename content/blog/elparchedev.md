@@ -51,5 +51,3 @@ Si eres nuevo tal vez te preguntarás qué tiene de especial el apunte de la cha
 
 ![](../../images/post/elparchedev/5.png)
 
-[Video](https://www.twitch.tv/videos/1137339798?collection=iTmOKukroRbXBA)
-
