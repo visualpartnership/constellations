@@ -1,7 +1,7 @@
 ---
 title: "El Parche Dev"
 date: 2021-10-03T15:06:12-05:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/elparchedev/5.png"
