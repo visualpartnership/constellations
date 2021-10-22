@@ -4,7 +4,7 @@ date: 2021-10-03T15:06:12-05:00
 draft: false
 
 # post thumb
-image: "images/post/elparchedev/5.png"
+image: "images/post/elparchedev/7.png"
 
 # meta description
 description: "Registros gráficos de El Parche Dev de GitHub Education"
@@ -51,3 +51,6 @@ Si eres nuevo tal vez te preguntarás qué tiene de especial el apunte de la cha
 
 ![](../../images/post/elparchedev/5.png)
 
+## 🎆 Ep. 7 Procrastinación con @imonsh
+
+![](../../images/post/elparchedev/7.png)
