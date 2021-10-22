@@ -51,6 +51,6 @@ Si eres nuevo tal vez te preguntarás qué tiene de especial el apunte de la cha
 
 ![](../../images/post/elparchedev/5.png)
 
-## 🎆 Ep. 7 Procrastinación con @imonsh
+## 🎆 Ep. 7 Llevando eventos tech al siguiente nivel @imonsh
 
 ![](../../images/post/elparchedev/7.png)
