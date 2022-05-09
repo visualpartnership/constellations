@@ -6,7 +6,16 @@
     <description>Recent content on Visual Constellations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Nov 2021 12:05:40 -0500</lastBuildDate><atom:link href="https://visualpartnership.xyz/constellations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 May 2022 12:05:40 -0500</lastBuildDate><atom:link href="https://visualpartnership.xyz/constellations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empex Conf 22 Salt Lake City</title>
+      <link>https://visualpartnership.xyz/constellations/blog/empexconf22/</link>
+      <pubDate>Sun, 08 May 2022 12:05:40 -0500</pubDate>
+      
+      <guid>https://visualpartnership.xyz/constellations/blog/empexconf22/</guid>
+      <description>EMPEX MTN The escape from Flatland, by Brooklyn Zelenka A funny thing happened on the way to the Phoenix, by Mat Trudel Burrito: Wrap your app in a BEAM burrito by Digit An ode to firmware design by Jon Carstens Telemetry powered observability by Ethan Gunderson $callers and $ancerstors and Tasks oh my!</description>
+    </item>
+    
     <item>
       <title>Elixir Brasil 2021</title>
       <link>https://visualpartnership.xyz/constellations/blog/elixirbrasil2021/</link>

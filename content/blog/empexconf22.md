@@ -15,14 +15,14 @@ categories:
   - "Erlang"
   - "EMPEX"
 tags:
-  - "English
+  - "English"
 # post type
 type: "post"
 ---
 
 ![0-1](https://user-images.githubusercontent.com/17634377/167322048-08718bb6-ebda-4d1a-922f-37da9bd0d5e4.png)
 
-# EMPEX MTN 
+# EMPEX MTN
 
 ## The escape from Flatland, by Brooklyn Zelenka
 ![1](https://user-images.githubusercontent.com/17634377/167322299-566d98b0-60be-427e-82a5-9615b1f36c55.png)
@@ -33,7 +33,7 @@ type: "post"
 ## Burrito: Wrap your app in a BEAM burrito by Digit
 ![3](https://user-images.githubusercontent.com/17634377/167322309-8b36e5fe-9e83-44d9-9163-0a5706250757.png)
 
-## An ode to firmware design by Jon Carstens 
+## An ode to firmware design by Jon Carstens
 ![4](https://user-images.githubusercontent.com/17634377/167322408-776f7e68-baae-4f3a-a6e2-ca7e36935689.png)
 
 ## Telemetry powered observability by Ethan Gunderson
