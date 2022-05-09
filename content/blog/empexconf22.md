@@ -48,5 +48,4 @@ type: "post"
 ![0-2](https://user-images.githubusercontent.com/17634377/167322470-c0bb4821-674e-415a-8bb8-78b789db3ddc.png)
 Many thanks to the organizers [Todd Resudek](https://twitter.com/sprsmpl) and [Chris Bell](https://twitter.com/cjbell_) for the invite to draw all the talks during this awesome event, and for make this possible. 🚀
 
-You can download the visual ebook totally free: [here](https://drive.google.com/file/d/15BOpW3qb6D-LUWc7R1q70c-5XXValIvD/view?usp=sharing)
-
+You can download the visual ebook totally free: [here](https://drive.google.com/file/d/1w3AQx4BEbskCbnyPfHo18SPEAFeVoU97/view?usp=sharing)
